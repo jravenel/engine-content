@@ -1,4 +1,4 @@
-![Naas.ai - Open Source Data Platform](assets/growth-engine-cover.png)
+![Naas.ai - Content Creation](assets/content-engine-cover.png)
 
 # Content Creation - Foundation Engine
 
