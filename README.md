@@ -27,25 +27,20 @@ This repository is structured as follows:
 ## **Built With**
 
 - Jupyter Notebooks
-- Naas
+- NaasAI
 
 ## **Documentation**
 
 ### **Prerequisites**
 
 - Create an account on naas.ai
+- Clone the repository
+- Configure your secrets to access your tools
 
 ### **Installation**
 
-Follow the steps in the **`setup.ipynb`** notebook.
-
-## **Roadmap**
-
-Done: 
-- V0: Added the first notebooks to `/models` folder to get post stats from LinkedIn.
-
-To do: 
-- V0.1: TBD
+- Follow the steps in the **`setup.ipynb`** notebook.
+- Run the **`setup.ipynb`** notebook.
 
 ## **Support**
 
