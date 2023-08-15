@@ -1,0 +1,8 @@
+{
+    "name": "engine-content",
+    "version": "0.0.0",
+    "devDependencies": {
+      "semantic-release": "^19.0.5"
+    }
+  }
+  
