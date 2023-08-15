@@ -2,6 +2,10 @@
     "branches": [
         {
             "name": "main",
+            "release": true
+        },
+        {
+            "name": "alpha",
             "channel": "alpha",
             "prerelease": "alpha"
         }
